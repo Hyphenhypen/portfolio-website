@@ -6,10 +6,6 @@
 }
 
 body {
-<<<<<<< HEAD
-=======
-    overflow-y: hidden;
->>>>>>> origin/main
     overflow-x: hidden;
     background-color: #1f242d;
     color: #ffffff;
@@ -57,10 +53,7 @@ body {
 }
 
 .home {
-<<<<<<< HEAD
     overflow-y: hidden;
-=======
->>>>>>> origin/main
     font-size: 2rem;
     position: relative;
     height: 100vh;
@@ -301,12 +294,9 @@ body {
 /* Contact */
 
 .contact {
-<<<<<<< HEAD
     font-size: 1.2rem;
     overflow-y: hidden;
     overflow-x: hidden;
-=======
->>>>>>> origin/main
     position: relative;
     height: 50vh;
     width: 90%;
@@ -332,12 +322,9 @@ body {
 /* about */
 
 .about {
-<<<<<<< HEAD
     font-size: 1.2rem;
     overflow-y: hidden;
     overflow-x: hidden;
-=======
->>>>>>> origin/main
     font-size: 1.3rem;
     position: relative;
     height: 50vh;
@@ -366,10 +353,6 @@ body {
 /* portfolio */
 
 .portfolio {
-<<<<<<< HEAD
-=======
-    overflow-x: hidden;
->>>>>>> origin/main
     position: relative;
     height: 100vh;
     width: 100%;
@@ -381,11 +364,7 @@ body {
 
 .portfolio h3 {
     margin-top: 30px;
-<<<<<<< HEAD
     font-size: 1.2rem;
-=======
-    font-size: 1.5rem;
->>>>>>> origin/main
 }
 
 .portfolio span {
@@ -410,10 +389,7 @@ body {
 /* skills */
 
 .skills {
-<<<<<<< HEAD
     font-size: 1.2rem;
-=======
->>>>>>> origin/main
     position: relative;
     height: 50vh;
     width: 90%;
